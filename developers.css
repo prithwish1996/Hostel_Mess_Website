@@ -1,0 +1,279 @@
+@media screen and (min-width: 768px)
+{
+  .background {
+    background:url(bg.jpg);
+    /*background-size:cover;*/
+    position: fixed;
+    z-index: -1;
+    /*top: 0;*/
+    /*bottom: 0;
+    left: 0;
+    right: 0;*/
+    opacity: 0.5;
+    width: 100%;
+    height: 800px;
+
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.sudheep{
+  margin-left: 30%;
+  border-radius: 8px;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+#texts{
+  margin-top: -18%;
+  margin-left: 20%;
+  font-weight: bold;
+  font-size: 20px;
+}
+#phones{
+  margin-left: 20%;
+  margin-top: 3%;
+  font-size: 20px;
+
+
+}
+#emails{
+  margin-left: 20%;
+  margin-top: 6.5%;
+  font-size: 20px;
+}
+.cerene{
+  margin-left: 30%;
+  border-radius: 8px;
+  margin-top: 7.5%;
+}
+#textc{
+  margin-top: -12%;
+  margin-left: 44%;
+  font-weight: bold;
+  font-size: 20px;
+}
+#emailc{
+  margin-left: 44%;
+  margin-top: 4%;
+  font-size: 20px;
+}
+.prithwish{
+  margin-left: 30%;
+  border-radius: 8px;
+  margin-top: 7%;
+}
+#textp{
+  margin-top: -12%;
+  margin-left: 44%;
+  font-weight: bold;
+  font-size: 20px;
+}
+#phonep{
+  margin-left: 44%;
+  margin-top: 2%;
+  font-size: 20px;
+
+}
+#emailp{
+  margin-left: 44%;
+  margin-top: 2%;
+  font-size: 20px;
+}
+
+  .nelwin{
+    margin-left: 30%;
+  border-radius: 8px;
+  margin-top: 7%;
+}
+#textn{
+  margin-top: -12%;
+  margin-left: 44%;
+  font-weight: bold;
+  font-size: 20px;
+}
+#phonen{
+  margin-left: 44%;
+  margin-top: 2%;
+  font-size: 20px;
+
+}
+#emailn{
+  margin-left: 44%;
+  margin-top: 2%;
+  font-size: 20px;
+}
+
+.prashant{
+  margin-left: 30%;
+border-radius: 8px;
+margin-top: 7%;
+}
+#textpr{
+margin-top: -12%;
+margin-left: 44%;
+font-weight: bold;
+font-size: 20px;
+}
+#phonepr{
+margin-left: 44%;
+margin-top: 2%;
+font-size: 20px;
+
+}
+#emailpr{
+margin-left: 44%;
+margin-top: 2%;
+font-size: 20px;
+margin-bottom: 4%;
+}
+}
+@media screen and (min-width : 0px) and (max-width : 767px)
+{
+  .background {
+    background:url(bg.jpg);
+    /*background-size:cover;*/
+    position: fixed;
+    z-index: -1;
+    /*top: 0;*/
+    /*bottom: 0;
+    left: 0;
+    right: 0;*/
+    opacity: 0.5;
+    width: 100%;
+    height: 800px;
+
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.sudheep{
+  margin-top: 2%;
+  margin-left: 0%;
+  border-radius: 8px;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 140px;
+}
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+#texts{
+  margin-top: -48%;
+  margin-left: 45%;
+  font-weight: bold;
+  font-size: 20px;
+}
+#phones{
+  margin-left: 45%;
+  margin-top: 3%;
+  font-size: 20px;
+
+
+}
+#emails{
+  margin-left: 45%;
+  margin-top: 4%;
+  font-size: 20px;
+}
+.cerene{
+  margin-left: 0%;
+  border-radius: 8px;
+  margin-top: 10%;
+}
+#textc{
+  margin-top: -48%;
+  margin-left: 44%;
+  font-weight: bold;
+  font-size: 20px;
+}
+#emailc{
+  margin-left: 44%;
+  margin-top: 10%;
+  font-size: 20px;
+}
+.prithwish{
+  margin-left: 0%;
+  border-radius: 8px;
+  margin-top: 24%;
+}
+#textp{
+  margin-top: -46%;
+  margin-left: 44%;
+  font-weight: bold;
+  font-size: 20px;
+}
+#phonep{
+  margin-left: 44%;
+  margin-top: 6%;
+  font-size: 20px;
+
+}
+#emailp{
+  margin-left: 44%;
+  margin-top: 8%;
+  font-size: 20px;
+}
+
+  .nelwin{
+    margin-left: 0%;
+  border-radius: 8px;
+  margin-top: 20%;
+}
+#textn{
+  margin-top: -47%;
+  margin-left: 44%;
+  font-weight: bold;
+  font-size: 20px;
+}
+#phonen{
+  margin-left: 44%;
+  margin-top: 7%;
+  font-size: 20px;
+
+}
+#emailn{
+  margin-left: 44%;
+  margin-top: 7%;
+  font-size: 20px;
+}
+
+.prashant{
+  margin-left: 0%;
+border-radius: 8px;
+margin-top: 19%;
+}
+#textpr{
+margin-top: -47%;
+margin-left: 44%;
+font-weight: bold;
+font-size: 20px;
+}
+#phonepr{
+margin-left: 44%;
+margin-top: 7%;
+font-size: 20px;
+
+}
+#emailpr{
+margin-left: 44%;
+margin-top: 7%;
+font-size: 20px;
+margin-bottom: 25%;
+}
+}
